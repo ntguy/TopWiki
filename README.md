@@ -1,3 +1,9 @@
+# TopWiki
+React App for accessing top articles from Wikipedia.
+
+This React Application was created as a take home assessment for Grow Therapy. It does not involve any server side work, but utilizes Wikipedia's API to display the top Wikipedia articles per day. The amount of articles displayed is configurable, and you can also filter by specific countries which utilizes a different API endpoint. Material UI was used as a component library.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
